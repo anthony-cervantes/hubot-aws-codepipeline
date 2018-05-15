@@ -16,7 +16,9 @@
     "url": "https://github.com/hubot-scripts/hubot-aws-codepipeline/issues"
   },
   "dependencies": {
-    "coffee-script": "~1.6"
+    "coffee-script": "~1.6",
+    "qs": "^6.5.2",
+    "semver": "^5.5.0"
   },
   "devDependencies": {
     "mocha": "*",
